@@ -1,3 +1,3 @@
-## Protfólio Fabianomendes
+## Protfólio Fabiano Mendes
 
 https://fabianomendes.github.io
