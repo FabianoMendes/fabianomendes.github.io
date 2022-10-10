@@ -38105,10 +38105,6 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-footer .u-icon-4 {
     margin-right: 308px;
   }
-
-  .u-footer .u-btn-2 {
-    transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
-  }
 }
 @media (max-width: 767px) {
   .u-footer .u-icon-2 {
@@ -38122,6 +38118,10 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-footer .u-icon-4 {
     margin-top: -35px;
     margin-right: 218px;
+  }
+
+  .u-footer .u-btn-2 {
+    transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
   }
 }
 @media (max-width: 575px) {

@@ -13,3 +13,5 @@ Neste projeto de aprendizado de máquina, vamos trabalhar com centenas de recurs
 Para a construção desse projeto utilizaremos linguagem Python e os datasets disponíveis no Kaggle em:
 
 https://www.kaggle.com/competitions/santander-customer-satisfaction/data
+
+**Nota:** Para executar o projeto faça o download dos datasets no link acima e salve em uma pasta com o nome "dataset".
